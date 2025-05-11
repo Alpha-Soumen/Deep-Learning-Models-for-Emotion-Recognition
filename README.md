@@ -175,6 +175,6 @@ You can download or view the full notebook in PDF format here:
 
 ## 👤  Contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/soumen-bhunia-2b8799293/))  
-Soumen Bhunia   
+ - **LinkedIn:** [Soumen Bhunia](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
+  
 
