@@ -174,6 +174,6 @@ You can download or view the full notebook in PDF format here:
 ---
 
 ## 👨‍💻 Developed by
-**LinkedIn:** [Soumen Bhunia](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
+**Soumen Bhunia:** [LinkedIn ](https://www.linkedin.com/in/soumen-bhunia-2b8799293/)
   
 
